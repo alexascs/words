@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
-	"name": "Tproger Launcher",
-	"description": "Запускатор представительств Tproger",
+	"name": "Words numberson open page",
+	"description": "if you wana to know how many differtn words are on open page",
 	"version": "1.0.0",
 	"icons": {"128": "icon_128.png"},
 	"browser_action": {
@@ -10,3 +10,5 @@
 	},
 	"permissions": ["activeTab"]
 }
+
+https://tproger.ru/articles/how-to-build-a-chrome-extension/
